@@ -1,7 +1,7 @@
 {
   "project" : {
-    "id" : "vgit2-3420191-kvP",
-    "name" : "vgit2-3420191-kvP",
+    "id" : "vgit5-3420191-KfR",
+    "name" : "vgit5-3420191-KfR",
     "folder" : "/jaicp"
   },
   "settings" : {
@@ -16,7 +16,7 @@
     "shared" : false
   },
   "intents" : [ {
-    "id" : 647,
+    "id" : 655,
     "path" : "/пока",
     "enabled" : true,
     "shared" : false,
@@ -25,7 +25,7 @@
     } ],
     "priority" : 0
   }, {
-    "id" : 648,
+    "id" : 656,
     "path" : "/привет",
     "enabled" : true,
     "shared" : false,
