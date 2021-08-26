@@ -15,6 +15,6 @@ theme: /
         a: Пока пока
 
     state: NoMatch
-        event!: noMatchasdfsadf
+        event!: noMatch
         a: Я не понял. Вы сказали: {{$request.query}}
 
